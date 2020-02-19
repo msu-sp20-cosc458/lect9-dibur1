@@ -1,2 +1,1 @@
-// Everything in between these tags is Javascript!
-alert("Hello, world!");
+alert("welcome to my world!");
